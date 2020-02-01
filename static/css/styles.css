@@ -18,9 +18,26 @@
   color: #f7c52e;
 }
 
+/* colours - hover & focus */
+
 .hy-hover-blue:focus,
 .hy-hover-blue:hover {
   color: #0000ff;
+}
+
+.hy-hover-red:focus,
+.hy-hover-red:hover {
+  color: #f13e1a;
+}
+
+.hy-hover-green:focus,
+.hy-hover-green:hover {
+  color: #2ab246;
+}
+
+.hy-hover-yellow:focus,
+.hy-hover-yellow:hover {
+  color: #f7c52e;
 }
 
 /* colours - bg */
