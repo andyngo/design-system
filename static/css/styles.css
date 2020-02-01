@@ -58,6 +58,24 @@
   background: #f7c52e;
 }
 
+/* colours - borders */
+
+.hy-b--blue {
+  border-color: #0000ff;
+}
+
+.hy-b--red {
+  border-color: #f13e1a;
+}
+
+.hy-b--green {
+  border-color: #2ab246;
+}
+
+.hy-b--yellow {
+  border-color: #f7c52e;
+}
+
 /* typography */
 
 .hy-inter {
